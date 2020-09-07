@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22c3cecc.chunk.css",
+    "main.js": "/static/js/main.c9e47e77.chunk.js",
+    "main.js.map": "/static/js/main.c9e47e77.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b126251.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b126251.js.map",
+    "static/js/2.6b1d8354.chunk.js": "/static/js/2.6b1d8354.chunk.js",
+    "static/js/2.6b1d8354.chunk.js.map": "/static/js/2.6b1d8354.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eba0478f3ea9d39131031da26c79bd1a.js": "/precache-manifest.eba0478f3ea9d39131031da26c79bd1a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.22c3cecc.chunk.css.map": "/static/css/main.22c3cecc.chunk.css.map",
+    "static/js/2.6b1d8354.chunk.js.LICENSE.txt": "/static/js/2.6b1d8354.chunk.js.LICENSE.txt",
+    "static/media/about.gif": "/static/media/about.ee602d98.gif",
+    "static/media/default-project.jpg": "/static/media/default-project.49828655.jpg",
+    "static/media/devcamper-project.jpg": "/static/media/devcamper-project.7bd4df04.jpg",
+    "static/media/devconnector-project.jpg": "/static/media/devconnector-project.38975200.jpg",
+    "static/media/developer.gif": "/static/media/developer.4517ae84.gif",
+    "static/media/ecommerce-project.jpg": "/static/media/ecommerce-project.b32605eb.jpg",
+    "static/media/github-project.jpg": "/static/media/github-project.edf8119e.jpg",
+    "static/media/movieapp-project.jpg": "/static/media/movieapp-project.d6bb6832.jpg",
+    "static/media/notfound.gif": "/static/media/notfound.620b4aa0.gif",
+    "static/media/postman.svg": "/static/media/postman.8f2a3398.svg",
+    "static/media/signture.svg": "/static/media/signture.8e77723d.svg",
+    "static/media/skills.gif": "/static/media/skills.ab29312c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b126251.js",
+    "static/js/2.6b1d8354.chunk.js",
+    "static/css/main.22c3cecc.chunk.css",
+    "static/js/main.c9e47e77.chunk.js"
+  ]
+}
