@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1a0266c.chunk.css",
-    "main.js": "/static/js/main.371e8e53.chunk.js",
-    "main.js.map": "/static/js/main.371e8e53.chunk.js.map",
+    "main.css": "/static/css/main.c2066ce1.chunk.css",
+    "main.js": "/static/js/main.6a5c846c.chunk.js",
+    "main.js.map": "/static/js/main.6a5c846c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9b126251.js",
     "runtime-main.js.map": "/static/js/runtime-main.9b126251.js.map",
     "static/js/2.89b4b6bf.chunk.js": "/static/js/2.89b4b6bf.chunk.js",
     "static/js/2.89b4b6bf.chunk.js.map": "/static/js/2.89b4b6bf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a31b5427a284afb3e25798b477cd9967.js": "/precache-manifest.a31b5427a284afb3e25798b477cd9967.js",
+    "precache-manifest.dafc7bbb1c83183b8afe118862136403.js": "/precache-manifest.dafc7bbb1c83183b8afe118862136403.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.e1a0266c.chunk.css.map": "/static/css/main.e1a0266c.chunk.css.map",
+    "static/css/main.c2066ce1.chunk.css.map": "/static/css/main.c2066ce1.chunk.css.map",
     "static/js/2.89b4b6bf.chunk.js.LICENSE.txt": "/static/js/2.89b4b6bf.chunk.js.LICENSE.txt",
     "static/media/about.gif": "/static/media/about.ee602d98.gif",
     "static/media/default-project.jpg": "/static/media/default-project.49828655.jpg",
     "static/media/devcamper-project.jpg": "/static/media/devcamper-project.7bd4df04.jpg",
     "static/media/devconnector-project.jpg": "/static/media/devconnector-project.38975200.jpg",
     "static/media/developer.gif": "/static/media/developer.4517ae84.gif",
-    "static/media/donewithit-project.jpg": "/static/media/donewithit-project.8ce56c82.jpg",
+    "static/media/donewithit-project.jpg": "/static/media/donewithit-project.6b4d917f.jpg",
     "static/media/movieapp-project.jpg": "/static/media/movieapp-project.d6bb6832.jpg",
     "static/media/notfound.gif": "/static/media/notfound.620b4aa0.gif",
     "static/media/proshop-project.jpg": "/static/media/proshop-project.d14a3f43.jpg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.9b126251.js",
     "static/js/2.89b4b6bf.chunk.js",
-    "static/css/main.e1a0266c.chunk.css",
-    "static/js/main.371e8e53.chunk.js"
+    "static/css/main.c2066ce1.chunk.css",
+    "static/js/main.6a5c846c.chunk.js"
   ]
 }
