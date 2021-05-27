@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7001392c.chunk.css",
-    "main.js": "/static/js/main.6dfd83d0.chunk.js",
-    "main.js.map": "/static/js/main.6dfd83d0.chunk.js.map",
+    "main.css": "/static/css/main.e1a0266c.chunk.css",
+    "main.js": "/static/js/main.44eb1dc3.chunk.js",
+    "main.js.map": "/static/js/main.44eb1dc3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9b126251.js",
     "runtime-main.js.map": "/static/js/runtime-main.9b126251.js.map",
-    "static/js/2.9e133734.chunk.js": "/static/js/2.9e133734.chunk.js",
-    "static/js/2.9e133734.chunk.js.map": "/static/js/2.9e133734.chunk.js.map",
+    "static/js/2.89b4b6bf.chunk.js": "/static/js/2.89b4b6bf.chunk.js",
+    "static/js/2.89b4b6bf.chunk.js.map": "/static/js/2.89b4b6bf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c10034f47261a2c3856964b894d2eb7d.js": "/precache-manifest.c10034f47261a2c3856964b894d2eb7d.js",
+    "precache-manifest.e59ea01e20c8eb90a14f62089ea99b30.js": "/precache-manifest.e59ea01e20c8eb90a14f62089ea99b30.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.7001392c.chunk.css.map": "/static/css/main.7001392c.chunk.css.map",
-    "static/js/2.9e133734.chunk.js.LICENSE.txt": "/static/js/2.9e133734.chunk.js.LICENSE.txt",
+    "static/css/main.e1a0266c.chunk.css.map": "/static/css/main.e1a0266c.chunk.css.map",
+    "static/js/2.89b4b6bf.chunk.js.LICENSE.txt": "/static/js/2.89b4b6bf.chunk.js.LICENSE.txt",
     "static/media/about.gif": "/static/media/about.ee602d98.gif",
     "static/media/covid-project.jpg": "/static/media/covid-project.dcba0bc1.jpg",
     "static/media/default-project.jpg": "/static/media/default-project.49828655.jpg",
@@ -20,7 +20,6 @@
     "static/media/developer.gif": "/static/media/developer.4517ae84.gif",
     "static/media/movieapp-project.jpg": "/static/media/movieapp-project.d6bb6832.jpg",
     "static/media/notfound.gif": "/static/media/notfound.620b4aa0.gif",
-    "static/media/postman.svg": "/static/media/postman.8f2a3398.svg",
     "static/media/proshop-project.jpg": "/static/media/proshop-project.d14a3f43.jpg",
     "static/media/signture.svg": "/static/media/signture.8e77723d.svg",
     "static/media/skills.gif": "/static/media/skills.ab29312c.gif",
@@ -28,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9b126251.js",
-    "static/js/2.9e133734.chunk.js",
-    "static/css/main.7001392c.chunk.css",
-    "static/js/main.6dfd83d0.chunk.js"
+    "static/js/2.89b4b6bf.chunk.js",
+    "static/css/main.e1a0266c.chunk.css",
+    "static/js/main.44eb1dc3.chunk.js"
   ]
 }
