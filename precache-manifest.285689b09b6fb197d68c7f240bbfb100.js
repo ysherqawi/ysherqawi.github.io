@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e3c882b904d467627df9527a11b5bf8",
+    "revision": "fd2993d76f9472fe2642836a847cb88d",
     "url": "/index.html"
   },
   {
-    "revision": "83b0ac1d049f5eca99fb",
-    "url": "/static/css/main.4baf29ba.chunk.css"
+    "revision": "aef56ecc23a865791e75",
+    "url": "/static/css/main.7728d0ac.chunk.css"
   },
   {
-    "revision": "8fcb776e8452d7b634ed",
-    "url": "/static/js/2.89b4b6bf.chunk.js"
+    "revision": "579264f8f841e8b06ead",
+    "url": "/static/js/2.ad1a251a.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.89b4b6bf.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ad1a251a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "83b0ac1d049f5eca99fb",
-    "url": "/static/js/main.88306967.chunk.js"
+    "revision": "aef56ecc23a865791e75",
+    "url": "/static/js/main.d930d32c.chunk.js"
   },
   {
-    "revision": "420d11f43645d04fc865",
-    "url": "/static/js/runtime-main.9b126251.js"
+    "revision": "12ed1685f73ec57702f7",
+    "url": "/static/js/runtime-main.35a91ad6.js"
   },
   {
     "revision": "ee602d986e3d30a22f9908c7fdc7cc0a",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/proshop-project.d14a3f43.jpg"
   },
   {
-    "revision": "8e77723d7107e242aaa9d00c9966e325",
-    "url": "/static/media/signture.8e77723d.svg"
+    "revision": "cbee6b9ad76a41ce87ee25ec7182b419",
+    "url": "/static/media/signture.cbee6b9a.svg"
   },
   {
     "revision": "ab29312c4db1e43f1d594a35c81e4e2d",

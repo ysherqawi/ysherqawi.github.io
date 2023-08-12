@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4baf29ba.chunk.css",
-    "main.js": "/static/js/main.88306967.chunk.js",
-    "main.js.map": "/static/js/main.88306967.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9b126251.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9b126251.js.map",
-    "static/js/2.89b4b6bf.chunk.js": "/static/js/2.89b4b6bf.chunk.js",
-    "static/js/2.89b4b6bf.chunk.js.map": "/static/js/2.89b4b6bf.chunk.js.map",
+    "main.css": "/static/css/main.7728d0ac.chunk.css",
+    "main.js": "/static/js/main.d930d32c.chunk.js",
+    "main.js.map": "/static/js/main.d930d32c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.35a91ad6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.35a91ad6.js.map",
+    "static/js/2.ad1a251a.chunk.js": "/static/js/2.ad1a251a.chunk.js",
+    "static/js/2.ad1a251a.chunk.js.map": "/static/js/2.ad1a251a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cee3f82c0cf11b2f9e21463accf5f759.js": "/precache-manifest.cee3f82c0cf11b2f9e21463accf5f759.js",
+    "precache-manifest.285689b09b6fb197d68c7f240bbfb100.js": "/precache-manifest.285689b09b6fb197d68c7f240bbfb100.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.4baf29ba.chunk.css.map": "/static/css/main.4baf29ba.chunk.css.map",
-    "static/js/2.89b4b6bf.chunk.js.LICENSE.txt": "/static/js/2.89b4b6bf.chunk.js.LICENSE.txt",
+    "static/css/main.7728d0ac.chunk.css.map": "/static/css/main.7728d0ac.chunk.css.map",
+    "static/js/2.ad1a251a.chunk.js.LICENSE.txt": "/static/js/2.ad1a251a.chunk.js.LICENSE.txt",
     "static/media/about.gif": "/static/media/about.ee602d98.gif",
     "static/media/default-project.jpg": "/static/media/default-project.49828655.jpg",
     "static/media/devcamper-project.jpg": "/static/media/devcamper-project.7bd4df04.jpg",
@@ -21,14 +21,14 @@
     "static/media/movieapp-project.jpg": "/static/media/movieapp-project.d6bb6832.jpg",
     "static/media/notfound.gif": "/static/media/notfound.620b4aa0.gif",
     "static/media/proshop-project.jpg": "/static/media/proshop-project.d14a3f43.jpg",
-    "static/media/signture.svg": "/static/media/signture.8e77723d.svg",
+    "static/media/signture.svg": "/static/media/signture.cbee6b9a.svg",
     "static/media/skills.gif": "/static/media/skills.ab29312c.gif",
     "static/media/spinner.gif": "/static/media/spinner.3e57e59a.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b126251.js",
-    "static/js/2.89b4b6bf.chunk.js",
-    "static/css/main.4baf29ba.chunk.css",
-    "static/js/main.88306967.chunk.js"
+    "static/js/runtime-main.35a91ad6.js",
+    "static/js/2.ad1a251a.chunk.js",
+    "static/css/main.7728d0ac.chunk.css",
+    "static/js/main.d930d32c.chunk.js"
   ]
 }
